@@ -1,0 +1,173 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Bebas Neue', cursive;
+}
+h1{
+  color: #363958;
+  line-height: 5px;
+  font-size: 70px;
+  line-height: 10px;
+}
+.orange-color{
+  color: #FF8367;
+}
+p{
+  color: #3E3E3E;
+  font-family: 'Roboto', sans-serif;  font-size: 12px;
+  font-size: 15px;
+  font-weight: 600;
+  padding-bottom: 20px;
+  padding-right: 110px;
+}
+a{
+  border-radius: 5px;
+  padding: 15px 50px 15px 50px;
+  border: 5px ;
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: #eb042b;
+}
+.introduction{
+  background-color: rgb(238, 234, 234);
+}
+.introduction .top .img{
+  padding-left: 20%;
+}
+img{
+  width: 90%;
+  margin-top: -50px;}
+section{
+  height: 500px;
+  padding-left: 10%;
+}
+.half-width{
+  width: 40%;
+  float: left;
+  
+}
+.left-side{
+  padding-top: 5%;
+  
+  width: 30%;
+}
+.different-color{
+  color: #F46060;
+}
+.about{
+  margin-top: -120px;
+  background-color: rgb(247, 243, 243);
+}
+.about .half-width{
+  width: 50%;
+}
+.about h2{
+  text-align: left;
+  letter-spacing: 1px;
+  font-size: 45px;
+  color: #363958;
+  padding-top: 20px;
+  padding-right: 452px;
+  }
+  .about .half-width p{
+    font-weight: 600;
+    margin-top: -15px;
+    text-align: justify;
+  }
+  .project{
+    height: 800px;
+    margin-top: 80px;
+    background-color: rgb(235, 234, 234);
+  }
+  .project .project-heading{
+    padding-top: 50px;
+    font-size: 30px;
+    
+  }
+  .project .project-heading h2{
+    text-align: center;
+  }
+.project  h2{
+  text-align: right;
+  padding-bottom: 80px;
+}
+.project .project-heading .color{
+  color: #F46060;
+
+}
+.project #img img{
+  height:200px;
+  width: 300px;
+  padding-top: 70px;
+  border-radius: 2px;
+}
+.project #img{
+  height:350px;
+  width: 350px;
+  text-align: justify;
+  border: 2px solid rgb(215, 219, 215);
+  border-radius: 20px;
+  padding-bottom:15px;
+  padding-left: 15px;
+  margin-left: 10px;
+  box-shadow: 1px 2px 5px;
+
+}
+.project .card #img{
+  float: left;
+}
+
+.project .card h3{
+  text-align: left;
+}
+.work{
+ height: 270px;
+}
+.work h1{
+  text-align: center;
+}
+.chat{
+  height: 210px;
+  width: 800px;
+  border: 10px;
+  margin:100px 0px 0px 150px ;
+  border-radius: 30px;
+  background-color: rgb(64, 50, 155);
+}
+.chat #text h1{
+  color: white;
+  padding-top: 100px ;
+  padding-left: 70px;
+  font-size: 60px;
+}
+.work .chat #text h1{
+  text-align: left;
+}
+#button{
+  float: right;
+  padding: 0px 90px 0px 0px;
+  margin-top: -70px;
+}
+ 
+  
+
+.connection h2{
+  font-size:50px;
+  text-align: center;
+  
+}
+.connection h3{
+  text-align: center;
+  font-size:30px;
+  float: center;
+}
+
+
+  
+    
+    
+ 
+  
+  
+  
+  
